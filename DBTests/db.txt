@@ -1,0 +1,6 @@
+Биология Tests/Biologi/Biologi1.txt Биология1
+Математика Tests/Matematics/Matematic.txt Алгебра
+Математика Tests/Matematics/discretnaya.txt ДискретнаяМатематика
+Физика Tests/phisics/Базовый.txt БазоваяФизика
+Физика Tests/phisics/Начальный.txt Тестовый
+Matematics Tests\Matematics\t1.txt t1
